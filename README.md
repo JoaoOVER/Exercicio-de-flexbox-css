@@ -6,7 +6,7 @@
 
 <p>
   <ul>
-    <li>URL da pratica 01 no <a href="https://joaoover.github.io/QR-Code/Qr_Code.html"/>Githubpages</a></li>
+    <li>URL da pratica 01 no <a href="https://joaoover.github.io/Pratica01.html"/>Githubpages</a></li>
   </ul>
 </p>
 
@@ -15,7 +15,7 @@
 
  <p>
   <ul>
-    <li>URL da pratica 02 no <a href="https://joaoover.github.io/QR-Code/Qr_Code.html"/>Githubpages</a></li>
+    <li>URL da pratica 02 no <a href="https://joaoover.github.io/Pratica02.html"/>Githubpages</a></li>
   </ul>
 </p>
 
@@ -24,6 +24,6 @@
 
  <p>
   <ul>
-    <li>URL da pratica 03 no <a href="https://joaoover.github.io/QR-Code/Qr_Code.html"/>Githubpages</a></li>
+    <li>URL da pratica 03 no <a href="https://joaoover.github.io/Pratica03.html"/>Githubpages</a></li>
   </ul>
 </p>
